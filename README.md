@@ -1,3 +1,4 @@
+# Logistic regression and data analysis
 Problem Statement: The company X is facing attrition. The data is for company X which is trying to control attrition. There are two sets of data: "Existing employees" and "Employees who have left". 
 
 
